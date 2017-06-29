@@ -1,0 +1,19 @@
+{
+  "name": "waiata",
+  "version": "0.0.1",
+  "description": "Web-based audio streaming library browser and player",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doubtingreality/waiata.git"
+  },
+  "author": "Murtada al Mousawy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doubtingreality/waiata/issues"
+  },
+  "homepage": "https://github.com/doubtingreality/waiata#readme"
+}
